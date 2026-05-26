@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailperify",
+        "uuid": 7998280,
+        "checksum": "7c8q9h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
